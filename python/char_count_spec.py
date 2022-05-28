@@ -8,6 +8,7 @@ print(char_count("aaabbc") == [
   ["c", 1]
 ])
 
+#print(char_count("an apple a day will keep the doctor away"))
 print(char_count("an apple a day will keep the doctor away") == [
   ["a", 6],
   ["e", 4],
